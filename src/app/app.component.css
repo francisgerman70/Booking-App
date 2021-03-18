@@ -1,0 +1,11 @@
+.container{
+
+  height: 300px;
+
+  justify-content: center;
+  align-items: center;
+}
+.igx-time-picker {
+  width: 400px;
+}
+
